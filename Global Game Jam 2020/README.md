@@ -1,6 +1,9 @@
 # "FixItLand" - Global Game Jam 2020
 Basic platformer developed using the Unity engine. Has 6 levels in total.
-Team members:
+<br>
+
+Team members: 
+
 *Liam Blair* 
 
 *Lewis Brookes* 
