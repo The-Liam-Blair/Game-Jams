@@ -24,5 +24,6 @@ Team members:
 
 **CONTROLS**
 
-*A D* - Moves your character left and right.
+*A D* - Moves your character left and right. 
+
 *Q / Spacebar* - Jump.
