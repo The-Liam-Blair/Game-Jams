@@ -1,2 +1,2 @@
 # Game-Jams
-Repository that holds all the executable files and information on all my Global Game Jam games.
+Repository that holds all the submissions and information on gam jam submissions.
